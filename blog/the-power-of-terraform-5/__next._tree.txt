@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/3upyz4wb-34hu.css","style"]
+:HL["/linkedin_icon.svg","image"]
+:HL["/twitter-icon.svg","image"]
+:HL["/instagram-icon.svg","image"]
+:HL["/mail-icon.svg","image"]
+:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/AUIKSH8_7TtUM6irDfZciA/5xOyeTew1vK-MRJf9Romvz_zAbcKlcvBPUduubO85xih_HF-zoVVHiRIW9diYdYGDohC1xDBqBZ0ryzZkMciCcsWT1ZK2Szw1HHvf4uEGULSJVhZX0wY2LsVY2ljXeaoYW063Fg3cClgsPnEOrwlWg/c2Eo94fFtjF_pETFAP4huGA4IsAFporxkIJD5_-Pbaw","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"the-power-of-terraform-5","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"i6gfraUg3cvUS6DcPYE_k"}

@@ -1,0 +1,58 @@
+1:"$Sreact.fragment"
+2:I[62190,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0d-ox86dp1ef-.js"],"default"]
+8:I[22016,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0d-ox86dp1ef-.js"],""]
+9:I[18063,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0d-ox86dp1ef-.js"],"default"]
+a:I[97367,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/orZAlmKZpMa0D1N20GZKjg/93IFRs14ufpYs2GdLNv6wP5LgqbAPleNzKE6UPE4GVDOpbRHNJ0v91aXmdwkCLzmU6N1hA2E9Tx5RQpWYa5gPQPJJlXonROPak5BR9SYEf3VAr-r0djp851jFZ-ap4SSLbxfSY-1e0QRQrYJ4VN45g/4p_v8BGgOFyUE0qbm6fmSk8gGYxgD_IQUuTQZi5Di6A","image"]
+3:T1222,<blockquote>
+<p>Today, I am excited to announce that we're opening WhatsApp to any business of any size around the world with WhatsApp Cloud API.</p>
+<ul>
+<li>Mark Zuckerberg at Meta's Conversations keynote on 19th May 2022</li>
+</ul>
+</blockquote>
+<p>That comes in a delightful surprise , Whatsapp Business API has been around since August 2018. However , it was open only for a few hundreds of service providers. This meant that a business to use this service would have to partner with a service provider. The feature however had took into storm , with many businesses - predominantly bigger ones being able to leverage yet another channel for sales and customer service - Whatsapp.</p>
+<h2>What is Whatsapp Business API ?</h2>
+<p>Whatsapp Business API is a tool provided by Meta (erstwhile Facebook) which owns whatsapp , which allows business to interact with its customers on whatsapp.
+The business may :</p>
+<ul>
+<li>Initiate conversations with customers , eg marketing content , sending sales invoice , etc</li>
+<li>Interact to customer messages , eg. Selling through whatsapp , Customer service through whatsapp , etc</li>
+</ul>
+<p><img src="https://www.google.com/url?sa=i&#x26;url=https%3A%2F%2Fgadgets360.com%2Fapps%2Fnews%2Fwhatsapp-business-api-update-faster-onboarding-auto-message-responses-f8-refresh-2454844&#x26;psig=AOvVaw2X5f0qpLDeU1ZnKXcuLtVA&#x26;ust=1654089444839000&#x26;source=images&#x26;cd=vfe&#x26;ved=0CAwQjRxqFwoTCPCX_8HpifgCFQAAAAAdAAAAABAU" alt=""></p>
+<p>The user will be using his whatsapp app on the phone , whereas the business will be responding to these programmatically , ie via programs written to handle messages .
+This gives the business an opportunity to :</p>
+<ul>
+<li>Use a single number for interacting with customers ,via an app which many customer service agents might be using.</li>
+<li>Automate responses through bots.</li>
+<li>Automate sales process through bots.</li>
+</ul>
+<p>As mentioned earlier , Whatsapp Business API however was not directly open to business. The access was restricted only to a few hundreds of service partners of Meta such as Twilio. Business had to purchase the product from them and use.</p>
+<h2>What has changed?</h2>
+<p><img src="https://i.ibb.co/VpC6JPF/Screenshot-2022-05-31-at-6-59-30-PM.png" alt=""></p>
+<p>The important change is that the API is now available for business directly. Businesses may leverage the new API which is hosted by Meta itself to build new apps. This would help in bringing in better tailor made solutions for each business. It would also be cost effective provided you have a technical team capable of writing an app from the scratch.</p>
+<h2>Is this for free ?</h2>
+<p><img src="https://scontent.fblr2-1.fna.fbcdn.net/v/t39.8562-6/246721477_1346448252437486_1118921405790894980_n.png?_nc_cat=102&#x26;ccb=1-7&#x26;_nc_sid=6825c5&#x26;_nc_ohc=I5Ogui5g180AX91WbBU&#x26;_nc_ht=scontent.fblr2-1.fna&#x26;oh=00_AT_Gfjl8xeQ-H8bvF97QTuc6stxjEmYjqtmGbE_W_qRJCw&#x26;oe=629ABDE3" alt="">
+Yes , and no.
+Whatsapp Business Cloud API offers a generous amount of free usage. Beyond which you will have to pay using a credit card. The free tier limits are as  below.</p>
+<ul>
+<li>Respond to unlimited customer-initiated conversations in 24-hour messaging windows.</li>
+<li>Send business-initiated conversations to 50 unique customers in a rolling 24-hour period per phone number.</li>
+<li>Register up to 2 phone numbers.</li>
+<li>The first 1,000 conversations that your business has each month are free of charge. These conversations can be user-initiated or business-initiated. If you exceed the free tier of 1,000 conversations per month, you'll be <a href="https://www.facebook.com/business/help/2225184664363779">charged per conversation</a>.</li>
+</ul>
+<p>You may increase your limit by verifying your business on meta business.</p>
+<h2>Where to start?</h2>
+<ul>
+<li>You should start from setting up meta business account if you dont have one. Then proceed with starting an app in it and select Whatsapp Business</li>
+<li>Have a clean phone number. Clean in the sense that it was not blocked by whatsapp and also not having any whatsapp personal or business account associated already. In case the number is already used on phone as personal or business account , then you will have to delete that account.</li>
+<li>Follow the documentation provided by Meta : <a href="https://developers.facebook.com/docs/whatsapp/cloud-api/overview">https://developers.facebook.com/docs/whatsapp/cloud-api/overview</a></li>
+<li>Play around , discover things and build an app or terminal based solution.</li>
+</ul>
+<p>Good luck exploring the new tool.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"mx-auto max-w-2xl px-6 py-16 sm:py-24","children":[["$","h1",null,{"className":"text-3xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-50","children":"Whatsapp Business Cloud API is here. What does it mean?"}],["$","div",null,{"className":"mt-3 flex flex-wrap items-center justify-between gap-4","children":[["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-400","children":["Published on"," ","Jun 01, 2022"]}],["$","$L2",null,{"title":"Whatsapp Business Cloud API is here. What does it mean?","description":"A sneak peak into the newly announced Whatsapp Business Cloud API. What it means for business."}]]}],["$","blockquote",null,{"className":"mt-6 border-l-2 border-accent-400 pl-4 text-zinc-600 italic dark:text-zinc-400","children":"A sneak peak into the newly announced Whatsapp Business Cloud API. What it means for business."}],["$","img",null,{"src":"https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/orZAlmKZpMa0D1N20GZKjg/93IFRs14ufpYs2GdLNv6wP5LgqbAPleNzKE6UPE4GVDOpbRHNJ0v91aXmdwkCLzmU6N1hA2E9Tx5RQpWYa5gPQPJJlXonROPak5BR9SYEf3VAr-r0djp851jFZ-ap4SSLbxfSY-1e0QRQrYJ4VN45g/4p_v8BGgOFyUE0qbm6fmSk8gGYxgD_IQUuTQZi5Di6A","alt":"Whatsapp Business Cloud API is here. What does it mean?","className":"mt-8 w-full rounded-2xl object-cover"}],["$","div",null,{"className":"prose prose-zinc mt-8 max-w-none dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"i6gfraUg3cvUS6DcPYE_k"}
+4:["$","nav",null,{"className":"mt-16 grid grid-cols-2 gap-4 border-t border-zinc-200 pt-8 dark:border-zinc-800","children":[["$","div",null,{"children":["$","$L8",null,{"href":"/blog/github-actions-and-why-you-should-use-them--8","className":"text-sm text-zinc-500 hover:text-accent-600","children":["← ","Github Actions and Why you should use them?"]}]}],["$","div",null,{"className":"text-right","children":["$","$L8",null,{"href":"/blog/how-to-be-a-software-developer--6","className":"text-sm text-zinc-500 hover:text-accent-600","children":["How to be a software developer ?","→"]}]}]]}]
+5:["$","$L9",null,{"identifier":"whatsapp-business-cloud-api-is-here-what-does-it-mean--7","title":"Whatsapp Business Cloud API is here. What does it mean?"}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/0d-ox86dp1ef-.js","async":true}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

@@ -1,0 +1,90 @@
+1:"$Sreact.fragment"
+2:I[25954,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+3:I[39756,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+4:I[37457,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+5:I[22016,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0d-ox86dp1ef-.js"],""]
+6:I[40684,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+7:I[73393,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default"]
+9:I[97367,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+d:I[97367,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js"],"ViewportBoundary"]
+f:I[97367,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js"],"MetadataBoundary"]
+11:I[68027,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js"],"default",1]
+:HL["/_next/static/chunks/3upyz4wb-34hu.css","style"]
+:HL["/linkedin_icon.svg","image"]
+:HL["/twitter-icon.svg","image"]
+:HL["/instagram-icon.svg","image"]
+:HL["/mail-icon.svg","image"]
+0:{"P":null,"c":["","blog","cloud-compute-to-cloud-database-connectivity-in-oracle-cloud-infrastructure-2"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","cloud-compute-to-cloud-database-connectivity-in-oracle-cloud-infrastructure-2","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3upyz4wb-34hu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/11cqka4fk8-ip.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/14mrh2-p_w84d.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"flex min-h-screen flex-col","children":[["$","$L2",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"mx-auto flex max-w-2xl flex-col items-center gap-4 px-6 py-24 text-center sm:py-32","children":[["$","p",null,{"className":"text-sm font-medium uppercase tracking-widest text-accent-600","children":"404"}],["$","h1",null,{"className":"text-3xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-50","children":"Page not found"}],["$","p",null,{"className":"text-zinc-600 dark:text-zinc-400","children":"The page you're looking for doesn't exist or may have moved."}],["$","$L5",null,{"href":"/","className":"mt-4 rounded-full bg-accent-600 px-5 py-2.5 text-sm font-medium text-white transition hover:bg-accent-700","children":"Back home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-zinc-200 dark:border-zinc-800","children":["$","div",null,{"className":"mx-auto flex max-w-4xl flex-col items-center gap-3 px-6 py-8 text-sm text-zinc-500 dark:text-zinc-400 sm:flex-row sm:justify-between","children":[["$","p",null,{"children":["Created by ","Aadish",", © ",2026]}],["$","div",null,{"className":"flex items-center gap-4","children":[["$","a","linkedin",{"href":"https://www.linkedin.com/in/prasad-aadish-ajayakumar-778363129/","target":"_blank","rel":"noreferrer","aria-label":"Prasad Aadish Ajayakumar","className":"opacity-70 transition hover:opacity-100","children":["$","img",null,{"src":"/linkedin_icon.svg","alt":"","className":"h-4 w-4"}]}],["$","a","twitter",{"href":"https://www.twitter.com/@AadishF","target":"_blank","rel":"noreferrer","aria-label":"@AadishF","className":"opacity-70 transition hover:opacity-100","children":["$","img",null,{"src":"/twitter-icon.svg","alt":"","className":"h-4 w-4"}]}],["$","a","instagram",{"href":"https://www.instagram.com/nuclear____nadal/","target":"_blank","rel":"noreferrer","aria-label":"@nuclear____nadal","className":"opacity-70 transition hover:opacity-100","children":["$","img",null,{"src":"/instagram-icon.svg","alt":"","className":"h-4 w-4"}]}],["$","a","mail",{"href":"mailto:aadish.ak@gmail.com?body=Hello%20Aadish%2C","target":"_blank","rel":"noreferrer","aria-label":"aadish.ak@gmail.com","className":"opacity-70 transition hover:opacity-100","children":["$","img",null,{"src":"/mail-icon.svg","alt":"","className":"h-4 w-4"}]}]]}]]}]}],["$","$L6",null,{}],["$","$L7",null,{}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L8",[["$","script","script-0",{"src":"/_next/static/chunks/0d-ox86dp1ef-.js","async":true,"nonce":"$undefined"}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],{},null,false,null]},null,false,"$@c"]},null,false,"$@c"]},null,false,null],["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$Le"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$a",null,{"name":"Next.Metadata","children":"$L10"}]}]}],null]}],false]],"m":"$undefined","G":["$11",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3upyz4wb-34hu.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"i6gfraUg3cvUS6DcPYE_k"}
+12:[]
+c:"$W12"
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+13:I[62190,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0d-ox86dp1ef-.js"],"default"]
+:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/w7dI1-5LVeWT4-bTjxDqdw/9FqhdGklk2skl7EuWxqRU4IKdmNJg-PEzsW37vrhIK6QqEnys_C6dZsCoc-VspCIpMrIg_JQM3UF9M5CLy7dvx-fmPzeRFJecq4wPmtppeUN8ZGjuPHT3damxElcKvbsEBTG91X7G5IVmQRpxSVm7A/45itbbd2WqWNfA40kMRh8AG4HbAkQOZZnIPbaN1NSOU","image"]
+14:T1a05,<p>Connecting to on-prem databases is what I was used to for most of my career. Slowly when the cloud-phase of career came up , connecting to a the cloud database was also not a tough task. But , suddenly it occurred that I had to connect a cloud VM to a Cloud Database and I was failing constantly.</p>
+<p>After couple of days , thinking of the trouble itself makes me smile , yes of course with a self pity. :) . But ultimately it turned out to be good learning.</p>
+<h2>The <strong>Challenge</strong></h2>
+<p>My requirement was to use Oracle Cloud VM as an access gateway that runs only shell-script or python and should connect to an Autonomous Transaction Database in Oracle Cloud.
+Though it sounds straight forward , getting it done was quite troublesome with either the documentation or the blogs would be mentioning most details but missing a few and ultimately you losing the way.
+So the challenge was actually finding out which one to follow.</p>
+<h2>Setting up the basics</h2>
+<p>Setting up the VM and ATP Database is quite straight forward and well documented. You may set up the SSH access to the VM . You will have to generate the instance wallet for the ATP. Download the wallet as we would require this later.</p>
+<h2>Downloading the Wallet</h2>
+<p>mTLS wallet is a zip file which bundles multiple files. These files can be used for establishing connection to the specific database through various clients , eg. SQL_Plus , Python , JDBC , etc. Since , I am using SQL_Plus I am interested in majorly two files in the bundle — sqlnet.ora and tnsnames.ora.
+You may check if all is well with your DB connection using the wallet in your local SQL Developer. Check the steps <a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/cswgs/autonomous-connect-sql-developer.html">here</a>.</p>
+<h2>Setting up the Oracle Instant Client and SQL Plus in the VM</h2>
+<p>As mentioned earlier my aim is to connect to the ATP Database from my Oracle Compute instance. We would need to set up Oracle Client and SQL*Plus in the Linux VM.
+The steps are mentioned elaborately <a href="https://www.geeksforgeeks.org/how-to-install-sqlplus-on-linux/">here</a>. But there are a few extra steps required in the end.</p>
+<p><strong>Step 1:</strong> Download the Basic Package (ZIP) by using the following command:</p>
+<p><code>wget https://download.oracle.com/otn_software/linux/instantclient/214000/instantclient-basic-linux.x64-21.4.0.0.0dbru.zip</code></p>
+<p><strong>Step 2:</strong> Download the SQL*Plus Package (ZIP) by using the following command:</p>
+<p><code>wget https://download.oracle.com/otn_software/linux/instantclient/214000/instantclient-sqlplus-linux.x64-21.4.0.0.0dbru.zip</code></p>
+<p><strong>Step 3:</strong> Make a new directory for the instant client.</p>
+<p><code>sudo mkdir -p /opt/oracle</code></p>
+<p><strong>Step 4:</strong> Unzip the Basic Package in the newly-created directory.</p>
+<p><em><code>sudo unzip -d /opt/oracle instantclient-basic-linux.x64-21.4.0.0.0dbru.zip</code></em></p>
+<p><strong>Step 5:</strong> Unzip the SQL *Plus Package in the newly-created directory.</p>
+<p><code>sudo unzip -d /opt/oracle instantclient-sqlplus-linux.x64–21.4.0.0.0dbru.zip</code></p>
+<p><strong>Step 7:</strong> Set the LD_LIBRARY_PATH in your ~/.bashrc source file.
+Open the file in vi and add these lines to the end of it
+<code>export LD_LIBRARY_PATH=/opt/oracle/instantclient_21_4:$LD_LIBRARY_PATH</code></p>
+<p><strong>Step 8:</strong> Set the ORACLE_HOME vars in your ~/.bashrc</p>
+<p><code>export ORACLE_HOME=/opt/oracle/instantclient_21_4</code></p>
+<p><strong>Step 9:</strong> Set the ORACLE_HOME in your ~/.bashrc</p>
+<p><code>export ORACLE_HOME=/opt/oracle/instantclient_21_4</code></p>
+<p><strong>Step 10:</strong> Set the PATH env vars in your ~/.bashrc</p>
+<p><code>export PATH=ORACLE_HOME:LD_LIBRARY_PATH:$PATH</code></p>
+<p><strong>Step 11:</strong> Run sqlplus -V command to confirm it’s installed or not.</p>
+<p><code>sqlplus -V</code></p>
+<p>Step 11 should give you no errors.</p>
+<p>But we aren’t done yet. We now need to use the mTLS wallet which we have downloaded earlier for connecting to the DB.</p>
+<h2><strong>Using the wallet (mTLS) for connecting to the database</strong></h2>
+<p>I found <a href="https://medium.com/u/4ac8c86cd8df?source=post_page-----77f58562a2b3--------------------------------">Lucas Jellema</a>‘s <a href="https://technology.amis.nl/oracle-cloud/connecting-sqlplus-in-cloud-shell-to-an-autonomous-database/">blog</a> to be very helpful here. He has explained how to connect the cloud shell to a cloud database instance. For me the case had a little difference , I needed to do the same in a compute instance.</p>
+<p><strong>Step 1:</strong> Upload the wallet zip file to the compute instance:
+<em>As I had already uploaded my ssh public key to the VM , I was able to use the scp command to do this.</em>
+<code>scp ~/Downloads/Wallet_labd.zip opc@:</code></p>
+<p><strong>Step 2:</strong> Create a directory <em>db</em> and extract the contents of the zip-file into this directory:</p>
+<p><code>unzip wallet.zip -d db</code></p>
+<p><strong>Step 3:</strong> Open sqlnet.ora in the vi editor and set the DIRECTORY to refer to the current directory — that holds the tnsnames.ora file. Save the sqlnet.ora file.</p>
+<p><code>WALLET_LOCATION = (SOURCE = (METHOD = file) (METHOD_DATA = (DIRECTORY="/home/opc/db")))</code>
+<code>SSL_SERVER_DN_MATCH=yes</code></p>
+<p><strong>Step 4:</strong> Set the TNS_ADMIN vars in your ~/.bashrc</p>
+<p><code>export TNS_ADMIN=/home/opc/db</code></p>
+<p><strong>Step 5:</strong> Source your ~/.bashrc file</p>
+<p><code>source ~/.bashrc</code></p>
+<p><strong>Step 6:</strong> Test Your DB Connection from SQL*Plus</p>
+<p><code>sqlplus admin@&#x3C;TNS Name></code></p>
+<h2>Key Takeaways</h2>
+<p>The key is in setting up the 3 env variables viz. LD_LIBRARY_PATH , ORACLE_HOME , TNS_ADMIN.</p>
+<ul>
+<li><strong>LD_LIBRARY_PATH :</strong> is used to tell dynamic link loader, a small program that begins all your applications, to determine where to look for dynamic shared libraries that an application was linked with. A colon (:) separates a list of directories, and this list is checked even before built-in search path/paths and conventional locations like (/lib, /usr/lib…).</li>
+<li><strong>ORACLE_HOME</strong> environment variable points to the directory where the Oracle database client software is installed.</li>
+<li><strong>TNS_ADMIN</strong> is an environment variable that points to the directory where the SQL*Net configuration files (like sqlnet. ora and tnsnames. ora) are located.</li>
+</ul>
+8:["$","article",null,{"className":"mx-auto max-w-2xl px-6 py-16 sm:py-24","children":[["$","h1",null,{"className":"text-3xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-50","children":"Cloud Compute to Cloud Database Connectivity in Oracle Cloud Infrastructure"}],["$","div",null,{"className":"mt-3 flex flex-wrap items-center justify-between gap-4","children":[["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-400","children":["Published on"," ","Apr 07, 2022"]}],["$","$L13",null,{"title":"Cloud Compute to Cloud Database Connectivity in Oracle Cloud Infrastructure","description":"Filling in the missing parts which I struggled to find."}]]}],["$","blockquote",null,{"className":"mt-6 border-l-2 border-accent-400 pl-4 text-zinc-600 italic dark:text-zinc-400","children":"Filling in the missing parts which I struggled to find."}],["$","img",null,{"src":"https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/w7dI1-5LVeWT4-bTjxDqdw/9FqhdGklk2skl7EuWxqRU4IKdmNJg-PEzsW37vrhIK6QqEnys_C6dZsCoc-VspCIpMrIg_JQM3UF9M5CLy7dvx-fmPzeRFJecq4wPmtppeUN8ZGjuPHT3damxElcKvbsEBTG91X7G5IVmQRpxSVm7A/45itbbd2WqWNfA40kMRh8AG4HbAkQOZZnIPbaN1NSOU","alt":"Cloud Compute to Cloud Database Connectivity in Oracle Cloud Infrastructure","className":"mt-8 w-full rounded-2xl object-cover"}],["$","div",null,{"className":"prose prose-zinc mt-8 max-w-none dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$14"}}],"$L15","$L16"]}]
+17:I[18063,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0d-ox86dp1ef-.js"],"default"]
+15:["$","nav",null,{"className":"mt-16 grid grid-cols-2 gap-4 border-t border-zinc-200 pt-8 dark:border-zinc-800","children":[["$","div",null,{"children":["$","$L5",null,{"href":"/blog/ansible--you-beauty--1","className":"text-sm text-zinc-500 hover:text-accent-600","children":["← ","Ansible , you beauty!"]}]}],["$","div",null,{"className":"text-right","children":["$","$L5",null,{"href":"/blog/travel-dilemma-in-the-era-of-covid19-3","className":"text-sm text-zinc-500 hover:text-accent-600","children":["Travel dilemma in the era of Covid19","→"]}]}]]}]
+16:["$","$L17",null,{"identifier":"cloud-compute-to-cloud-database-connectivity-in-oracle-cloud-infrastructure-2","title":"Cloud Compute to Cloud Database Connectivity in Oracle Cloud Infrastructure"}]
+18:I[27201,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js"],"IconMark"]
+b:null
+10:[["$","title","0",{"children":"Cloud Compute to Cloud Database Connectivity in Oracle Cloud Infrastructure — Aadism.com"}],["$","meta","1",{"name":"description","content":"Filling in the missing parts which I struggled to find."}],["$","meta","2",{"name":"author","content":"Prasad Aadish Ajayakumar"}],["$","meta","3",{"property":"og:title","content":"Cloud Compute to Cloud Database Connectivity in Oracle Cloud Infrastructure"}],["$","meta","4",{"property":"og:description","content":"Filling in the missing parts which I struggled to find."}],["$","meta","5",{"property":"og:image","content":"https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/w7dI1-5LVeWT4-bTjxDqdw/9FqhdGklk2skl7EuWxqRU4IKdmNJg-PEzsW37vrhIK6QqEnys_C6dZsCoc-VspCIpMrIg_JQM3UF9M5CLy7dvx-fmPzeRFJecq4wPmtppeUN8ZGjuPHT3damxElcKvbsEBTG91X7G5IVmQRpxSVm7A/45itbbd2WqWNfA40kMRh8AG4HbAkQOZZnIPbaN1NSOU"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Cloud Compute to Cloud Database Connectivity in Oracle Cloud Infrastructure"}],["$","meta","9",{"name":"twitter:description","content":"Filling in the missing parts which I struggled to find."}],["$","meta","10",{"name":"twitter:image","content":"https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/w7dI1-5LVeWT4-bTjxDqdw/9FqhdGklk2skl7EuWxqRU4IKdmNJg-PEzsW37vrhIK6QqEnys_C6dZsCoc-VspCIpMrIg_JQM3UF9M5CLy7dvx-fmPzeRFJecq4wPmtppeUN8ZGjuPHT3damxElcKvbsEBTG91X7G5IVmQRpxSVm7A/45itbbd2WqWNfA40kMRh8AG4HbAkQOZZnIPbaN1NSOU"}],["$","link","11",{"rel":"icon","href":"/favicon.ico?favicon.210j7by20mc1q.ico","sizes":"32x32","type":"image/x-icon"}],["$","link","12",{"rel":"icon","href":"/favicon.ico"}],["$","$L18","13",{}]]

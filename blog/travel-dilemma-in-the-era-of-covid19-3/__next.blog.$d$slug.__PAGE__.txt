@@ -1,0 +1,51 @@
+1:"$Sreact.fragment"
+2:I[62190,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0d-ox86dp1ef-.js"],"default"]
+8:I[22016,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0d-ox86dp1ef-.js"],""]
+9:I[18063,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0d-ox86dp1ef-.js"],"default"]
+a:I[97367,["/_next/static/chunks/11cqka4fk8-ip.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/B2VyZQC0O6zKPj4Dxjj09A/whAsY4yv_NT0BefDg0Jc_TK69VxrRUysMI7S0-lI8Kd_ZUVbqG9dwhju9IuF9Ptylc_xfsvB6VYAlQKGpVa_nc66K1r8EjUtOUPkQzvrJe5D8IV6oC7W2PggMRYvSlvBvn6q0FDRSmDhDS5O7yge4g/XcyCZ2dbH527JvlP92aMlj_CaPcbiu-shg-kmMpDVR0","image"]
+3:T1714,<blockquote>
+<p>Covid-19 represents an unprecedented global health , social and economic emergency.</p>
+<ul>
+<li>UNWTO <a href="https://www.unwto.org/international-tourism-and-covid-19">article </a>on COVID 19</li>
+</ul>
+</blockquote>
+<p>It all started somewhere in the mid of March. 2019 was a great year as a traveller for me — except for a cancelled Kashmir Great Lakes trek due to political situation and then postponement of nearly half a dozen of hikes due to floods in South India circa Sep — Oct 2019.</p>
+<p>2020 started off promisingly with being able to lead a small group in the famous Chadar Trek at Ladakh in January. Though the trek couldn’t complete as planned , me and my friends consider ourselves too lucky ; the trekkers who started a day ahead of us were stranded due to rough ice and “breaking of Chadar” and were rescued by the Indian Army after a few days , and no treks were allowed from the very next day of our start. We were advised to return by the police party at duty , after waiting for the favour of weather gods at the Shingra Koma, which we accepted , reluctantly though. It was one of the toughest decision I had ever taken in life , weighing between the compulsion to complete the long waited , hard — worked trek and that sad reality that safety of life is far more important.</p>
+<p>I should confess that I was in a race of numbers with my wife , <a href="https://www.shethepeople.tv/top-stories/geethu-mohandas-fjallraven-polar/#:~:text=Geethu%20Mohandas%2C%20a%2028%2Dyear,people%20all%20around%20the%20world.">Geethu Mohandas</a> , on how many destinations we would cover this year. She had completed a tour to Andaman Islands and scored an equaliser by Feb. Her next trip was the <a href="https://polar.fjallraven.com/">Fjällräven Polar 2020</a> expedition , scheduled to be in mid-April , which she planned so elaborately that she was to cover almost every Scandinavian countries in a fortnight.</p>
+<p><img src="https://miro.medium.com/max/700/1*O3LV0AnMT7ZC0KbpXAGaZA.jpeg" alt=""></p>
+<p>Artic Circle — Image from Pixabay</p>
+<p>And then , Fjällräven postponed their expedition to 2021. That came in as a relief as we were then already a little bothered about the spread of COVID in Europe. COVID cases in India were way too less then , and never in the scariest of our dreams we thought that things would escalate here too.</p>
+<p>Offices were closed , and an extensive lock-down was issue pan-India. Lockdown extended and so did work timings. Back aches became a routine every week Wednesday but what was more concerning was managing a home. Yes! you heard it right , though being married for more than a year , it was the first time we are spending couple of weeks continuously s in our rented apartment in Bangalore. Almost every Friday night we boarded bus to a camping or hiking destinations , mostly for a scheduled event by [LetsGoForACamp](https://www.letsgoforacamp.com/) or into our weekend of happiness. Naturally , our home was more or less a weekday hostel , where we unpack our trek bags on Monday mornings , cook dinner , eat and sleep from Monday to Thursday , hurry to office every weekday after quick showers in the mornings and pack bags every Friday. We finally had started appreciating our home as ours , started having feeling a connection with it. That reflects with the previously empty garden pots now yielding some vegetables and also have got a few new friends , filling our 3 foot wide balcony.</p>
+<p><img src="https://miro.medium.com/max/700/1*KFFL_PCnazRNLolDZFTA2Q.jpeg" alt=""></p>
+<blockquote>
+<p><code>Photo by [Arthur Brognoli]</code></p>
+</blockquote>
+<p>But , again staying home isn’t what the minds are used to , they sometimes slip into day dreaming imagining beautiful places that would have been explored if not for those cute-looking yet dangerous virus and then into short bouts of depression. Prospects of travelling the way we used to be looks impossible in a near future. Reluctantly we have to accept the new normal. So we are slowly garnering that strength , which is wholly mental , to travel. But how ?</p>
+<p>After almost half a year of deliberations by minds trapped indoors we finally resolved to travel , not as frequent as earlier. Bearing in mind that with travel comes great responsibility. We made a few rules which we will follow whilst travelling :</p>
+<ul>
+<li>Wear masks and carry pocket sanitizer. Sanitise hands frequently.  </li>
+<li>Go Corona Go!</li>
+<li>Carry enough fruits , light snacks and other ready-to-eat food.  </li>
+<li>This is to avoid contacts as much as possible whilst travelling.</li>
+<li>Carrying enough water and water bottles.</li>
+<li>Avoid crowded places.  </li>
+<li>Risks here is multi-folded , apart from the risk of contracting virus yourselves , in case you are infected you are unknowingly spreading to a crowd</li>
+<li>Keep track of as much people who come to our contact.**  
+  Jotting their names, phone number and place in a notepad , maybe. This would include the service providers at your stay , eateries , etc. if you contract the virus , you can alert them so that they could go for self-quarantine.</li>
+<li>Food-adventures postponed.  Saddest part , but …</li>
+<li>Stay in places that follow proper sanitizing protocols and avoid co-sharing.</li>
+<li>Near-self-quarantine for at least a week upon return.</li>
+</ul>
+<p><img src="https://miro.medium.com/max/700/1*gohF6inLOPPRqSL5HPAmOQ.jpeg" alt=""></p>
+<blockquote>
+<p>Photo by [Yaroslav Danylchenko]</p>
+</blockquote>
+<p>Having said those , we need to wait until our next travel to evaluate if these will really work out. Its a sad reality that we will have to keep our contacts to minimal , especially when we both were so fond of exploring local lives , and that always came by talking with more people. But , we travelling should not be risky to others.</p>
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"mx-auto max-w-2xl px-6 py-16 sm:py-24","children":[["$","h1",null,{"className":"text-3xl font-semibold tracking-tight text-zinc-900 dark:text-zinc-50","children":"Travel dilemma in the era of Covid19"}],["$","div",null,{"className":"mt-3 flex flex-wrap items-center justify-between gap-4","children":[["$","p",null,{"className":"text-sm text-zinc-500 dark:text-zinc-400","children":["Published on"," ","Aug 24, 2020"]}],["$","$L2",null,{"title":"Travel dilemma in the era of Covid19","description":"Or read it as “How frustrating it is working from home for globe-trotting couples”"}]]}],["$","blockquote",null,{"className":"mt-6 border-l-2 border-accent-400 pl-4 text-zinc-600 italic dark:text-zinc-400","children":"Or read it as “How frustrating it is working from home for globe-trotting couples”"}],["$","img",null,{"src":"https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/B2VyZQC0O6zKPj4Dxjj09A/whAsY4yv_NT0BefDg0Jc_TK69VxrRUysMI7S0-lI8Kd_ZUVbqG9dwhju9IuF9Ptylc_xfsvB6VYAlQKGpVa_nc66K1r8EjUtOUPkQzvrJe5D8IV6oC7W2PggMRYvSlvBvn6q0FDRSmDhDS5O7yge4g/XcyCZ2dbH527JvlP92aMlj_CaPcbiu-shg-kmMpDVR0","alt":"Travel dilemma in the era of Covid19","className":"mt-8 w-full rounded-2xl object-cover"}],["$","div",null,{"className":"prose prose-zinc mt-8 max-w-none dark:prose-invert","dangerouslySetInnerHTML":{"__html":"$3"}}],"$L4","$L5"]}],["$L6"],"$L7"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"i6gfraUg3cvUS6DcPYE_k"}
+4:["$","nav",null,{"className":"mt-16 grid grid-cols-2 gap-4 border-t border-zinc-200 pt-8 dark:border-zinc-800","children":[["$","div",null,{"children":["$","$L8",null,{"href":"/blog/cloud-compute-to-cloud-database-connectivity-in-oracle-cloud-infrastructure-2","className":"text-sm text-zinc-500 hover:text-accent-600","children":["← ","Cloud Compute to Cloud Database Connectivity in Oracle Cloud Infrastructure"]}]}],["$","div",null,{"className":"text-right","children":["$","$L8",null,{"href":"/blog/the-mist-at-ilaveezhapoonjira-—-camp-experience-4","className":"text-sm text-zinc-500 hover:text-accent-600","children":["The Mist at Ilaveezhapoonjira — Camp Experience","→"]}]}]]}]
+5:["$","$L9",null,{"identifier":"travel-dilemma-in-the-era-of-covid19-3","title":"Travel dilemma in the era of Covid19"}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/0d-ox86dp1ef-.js","async":true}]
+7:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null

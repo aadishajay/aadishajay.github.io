@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/3upyz4wb-34hu.css","style"]
+:HL["/linkedin_icon.svg","image"]
+:HL["/twitter-icon.svg","image"]
+:HL["/instagram-icon.svg","image"]
+:HL["/mail-icon.svg","image"]
+:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/G97HCogKnFY1JJswPEf5XA/TL6PDcOIGTMDo33yvrRzUaM6WwAB_V00ZVH4OXBagAe4Sf9-n7RZFCtxR-JQ16wNuhv6nuid7bfv5L0bIsSvKNIbx7vSAT_dEAhBOqfKIM8CcHdSeVssAVLY5sG_-CmqpdHwIUzZda6DBJooNL_DGg/moeqvzxY_EZOqEkZSAwTreLc8KOGpB6ByrIiiluq-Yc","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"how-to-be-a-software-developer--6","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"i6gfraUg3cvUS6DcPYE_k"}
