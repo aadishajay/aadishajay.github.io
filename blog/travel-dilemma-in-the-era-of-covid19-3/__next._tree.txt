@@ -3,5 +3,5 @@
 :HL["/twitter-icon.svg","image"]
 :HL["/instagram-icon.svg","image"]
 :HL["/mail-icon.svg","image"]
-:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/B2VyZQC0O6zKPj4Dxjj09A/whAsY4yv_NT0BefDg0Jc_TK69VxrRUysMI7S0-lI8Kd_ZUVbqG9dwhju9IuF9Ptylc_xfsvB6VYAlQKGpVa_nc66K1r8EjUtOUPkQzvrJe5D8IV6oC7W2PggMRYvSlvBvn6q0FDRSmDhDS5O7yge4g/XcyCZ2dbH527JvlP92aMlj_CaPcbiu-shg-kmMpDVR0","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"travel-dilemma-in-the-era-of-covid19-3","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"i6gfraUg3cvUS6DcPYE_k"}
+:HL["/airtable-images/attwN9oIEGazR0fh1-large.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"travel-dilemma-in-the-era-of-covid19-3","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"kWgqj-D0c8mwQbMaRtdWg"}

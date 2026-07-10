@@ -3,5 +3,5 @@
 :HL["/twitter-icon.svg","image"]
 :HL["/instagram-icon.svg","image"]
 :HL["/mail-icon.svg","image"]
-:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/orZAlmKZpMa0D1N20GZKjg/93IFRs14ufpYs2GdLNv6wP5LgqbAPleNzKE6UPE4GVDOpbRHNJ0v91aXmdwkCLzmU6N1hA2E9Tx5RQpWYa5gPQPJJlXonROPak5BR9SYEf3VAr-r0djp851jFZ-ap4SSLbxfSY-1e0QRQrYJ4VN45g/4p_v8BGgOFyUE0qbm6fmSk8gGYxgD_IQUuTQZi5Di6A","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"whatsapp-business-cloud-api-is-here-what-does-it-mean--7","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"i6gfraUg3cvUS6DcPYE_k"}
+:HL["/airtable-images/attBpgmevTEr2kYwO-large.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"whatsapp-business-cloud-api-is-here-what-does-it-mean--7","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"kWgqj-D0c8mwQbMaRtdWg"}

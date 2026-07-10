@@ -3,5 +3,5 @@
 :HL["/twitter-icon.svg","image"]
 :HL["/instagram-icon.svg","image"]
 :HL["/mail-icon.svg","image"]
-:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/w7dI1-5LVeWT4-bTjxDqdw/9FqhdGklk2skl7EuWxqRU4IKdmNJg-PEzsW37vrhIK6QqEnys_C6dZsCoc-VspCIpMrIg_JQM3UF9M5CLy7dvx-fmPzeRFJecq4wPmtppeUN8ZGjuPHT3damxElcKvbsEBTG91X7G5IVmQRpxSVm7A/45itbbd2WqWNfA40kMRh8AG4HbAkQOZZnIPbaN1NSOU","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"cloud-compute-to-cloud-database-connectivity-in-oracle-cloud-infrastructure-2","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"i6gfraUg3cvUS6DcPYE_k"}
+:HL["/airtable-images/attNMo9oYQV8ysP9Z-large.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"blog","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"cloud-compute-to-cloud-database-connectivity-in-oracle-cloud-infrastructure-2","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"kWgqj-D0c8mwQbMaRtdWg"}

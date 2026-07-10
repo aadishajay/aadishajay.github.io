@@ -3,10 +3,10 @@
 :HL["/twitter-icon.svg","image"]
 :HL["/instagram-icon.svg","image"]
 :HL["/mail-icon.svg","image"]
-:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/PyXsuAuNS2AzdINp2ySbmA/uE3fmCfYgQTxobbUg6MIf4uAYGkHQNM4gxL08NC2U07AbMAOlku5k6N0u7EdnQb3-TNNzLgZElHdtSNyRQiJ6j1xibsK23YuAcrLfxsBvXU-YYPduZn7jEjDA0QMCnUL7lJicqKpyaNvATuBhXthopl03ZeOUmq5yd6ydiBkCes/Pm5LYH2Fxi0jRP4GhIHxDCRqinyZalOPKER35-NxgAA","image"]
-:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/vsC3yhwsGcY681C166upTg/iC9aQwd-V0k8-AaLQhlOmOrcfQ0C-Ai-0zGf-jSDkpZS_BrhjpKTQTeT80A_KRii32koMPLvYRcXshuCXPOKmALrm5GqXiHWKELKec_1Xguwyw2rlFuh-MAcqF36ftBSyZVFnqdlC5lgb44S6Szj-ceWGs5gD1NMhM7HGTuQR57dIbzkN5oGnwmNvpsLWQ8o7pddNULaSNpUwLKw0Vdpaw/7LaubGhJPrMy4EwFeHzmXCm_9kTP73dTMOoGMryvrIw","image"]
-:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/KOsdkyYnufxT5QBU70X9cA/GefSfcEGpdreHKm3khrcVkhdPQw501RX875Jd5IknuL1AzjZ-qlZjWkJZGAmjkb0sqUn2Oh96A_r2PZtGEgUuGCvVz6a5yVBprMjHWVYaQ-pmJrBSXkiruAA9BhyqizBRvbUQTDc5Hm45iK33clJ0QyuL3D-EQje-Y3_fg9lE_iEzmntg5OWokzPPcR7KbiBYNHfOaYC1rPGvken3IvzIfLtpVwu5wTi42hC4wTU7Hs/6fBNOh4eLQ4jLlkJ1Na0LuVaKUAM8CAVzvPd7qHyIS4","image"]
-:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/QUrKCUpadHfDDvtKgDrQHg/NHh0Q5zIO5BVHC6bKDVl4t0xh_gG407xNragYyCW_XETyxDL3I-CjWTEJ3kvpsS9rZ13zMp8PquM0Wy5tnlghp_EpZqRlnL5Nc91vPwb5nDHlVp-yFOaStBEuW_KV7Zva3q_rX2XL7zL3bGi9iV03Keigo9IsUhmQYCyw7sC83M/av--lTBs71YhI85PlxrX61lCGZKC1tewXy1-jzi0a5I","image"]
-:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/0bdrn_WgBAsu5mpbT-JXOQ/LrVZ42v7W0F0sDV9xy2zq3XeRVWH0N7_xsaqZRZ_QEs5JphwEtOLfiZVyM9VQuaJyQrV6gydtH101D2x2a9d6VxkA0ukd5_puHUPNSIPpAc30C8-1ba08RzjHZk65Me98DcRbFSN5_9BRbsa75qzUA434rArA99vF-LgTCBh59r_ktk9BAuHkzVPU4QVA2xQgL6b06yovB_aGprqmPCMK7V4CF5AgijIPIUYL7OPa0Y/4Kxxea8wAKFOh6ijschTycwo5OAthpnzF6cqzWAluWA","image"]
-:HL["https://v5.airtableusercontent.com/v3/u/55/55/1783634400000/svVF4Q8DgRdpGmQkZ9G4qQ/wSDMG-roT4vqH0qgqJs0OaPQzS79j6o3vUz82uvo1olc20YRXbqbKrwJiypRxy8cQ8ePYyxk-Hlho0NQ4AT4knF8n2Z_cKrx60BfGVj_oLMS9lmG54GOAlkj33hFi6ZhokvzXm68-8Md8HksOuMOn7IAPSGGVrzeOi2PKUCJoGSl7UqQJXOZASpcUGurR_TH/mtys59NJQHyYeTtAHP6M7ihLmMYG6yHGOfDC9OX3ztI","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work-experience","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"i6gfraUg3cvUS6DcPYE_k"}
+:HL["/airtable-images/attF9OF4tiQE9xciJ.png","image"]
+:HL["/airtable-images/attTERkuNt0gD0tgL.png","image"]
+:HL["/airtable-images/attqz48nF1FaRFvLG.png","image"]
+:HL["/airtable-images/att5qmpAajQpiiVsg.png","image"]
+:HL["/airtable-images/attZnTNsOwo3QZV1r.png","image"]
+:HL["/airtable-images/attt3UCp84VY22njC.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work-experience","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"kWgqj-D0c8mwQbMaRtdWg"}
