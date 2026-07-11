@@ -1,4 +1,11 @@
-:HL["/_next/static/chunks/34l3g0spc0rc5.css","style"]
+:HL["/_next/static/chunks/3lv_s5q2syh6h.css","style"]
 :HL["/_next/static/media/0c89a48fa5027cee-s.p.2cyn07wtgehh0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"LG0_Z_mXt-0WMyBdoFHBd"}
+:HL["/tools/n8n.svg","image"]
+:HL["/tools/claude-code.svg","image"]
+:HL["/tools/notion.svg","image"]
+:HL["/tools/whatsapp-business.svg","image"]
+:HL["/tools/meta-business-suite.svg","image"]
+:HL["/tools/nextjs.svg","image"]
+:HL["/tools/codeigniter.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"zS1p2MF3ip6Q_lsHdzRZG"}
