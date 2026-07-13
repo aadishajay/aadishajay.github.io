@@ -11,4 +11,4 @@
 :HL["/tools/meta-business-suite.svg","image"]
 :HL["/tools/nextjs.svg","image"]
 :HL["/tools/codeigniter.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"3xaqPi4WA_tGQHk5fEd9o"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"OyqMxI7eyr-icCjx78fn6"}
