@@ -7,4 +7,4 @@
 :HL["/airtable-images/att5qmpAajQpiiVsg.png","image"]
 :HL["/airtable-images/attZnTNsOwo3QZV1r.png","image"]
 :HL["/airtable-images/attt3UCp84VY22njC.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work-experience","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"fNjhdCA0SB4hjriSMBsW0"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work-experience","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"MLMjST4h56IGo1tqcE0Ft"}
